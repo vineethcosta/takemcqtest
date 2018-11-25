@@ -1,9 +1,9 @@
 #Run it locally
 
-First download the zip file
-extract it
-go to command prompt
-cd takemcqtest-master
+First download the zip file--
+extract it--
+go to command prompt--
+cd takemcqtest-master--
 
 *MAKE SURE NODE IS INSTALLED
 
